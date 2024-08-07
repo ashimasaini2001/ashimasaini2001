@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/media/93cc6261bb36b6e11237ea64ecde6961.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashimasaini2001" alt="ashimasaini2001" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
