@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashima Saini</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/media/93cc6261bb36b6e11237ea64ecde6961.gif">
+<img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/media/93cc6261bb36b6e11237ea64ecde6961.gif">
 
 
 - 🌱 I’m currently learning **React**
