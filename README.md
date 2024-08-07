@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashima Saini</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/3848396-Character-Typing/attachments/10055179?mode=media">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/media/93cc6261bb36b6e11237ea64ecde6961.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashimasaini2001" alt="ashimasaini2001" /></a> </p>
 
