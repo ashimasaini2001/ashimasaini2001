@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/media/93cc6261bb36b6e11237ea64ecde6961.gif">
 
 - 🌱 I’m currently learning **React**
-- 💬 Ask me about **Python**, **GUI Development **
+- 💬 Ask me about **Python**, **GUI Development**
 - 🏅 Contributed to **GirlScript Summer of Code 2024** and earned a Champion Badge
 - 📫 How to reach me: **ashimasaini010@gmail.com**
 
