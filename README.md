@@ -4,8 +4,8 @@
 <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/media/93cc6261bb36b6e11237ea64ecde6961.gif">
 
 - 🌱 I’m currently learning **React**
-- 💬 Ask me about **Python**, **GUI Development (PyQt5, Tkinter)**
-- 🏅 Contributed to **GirlScript Summer of Code 2024** with a Champion Badge
+- 💬 Ask me about **Python**, **GUI Development **
+- 🏅 Contributed to **GirlScript Summer of Code 2024** and earned a Champion Badge
 - 📫 How to reach me: **ashimasaini010@gmail.com**
 
 ---
@@ -47,17 +47,28 @@
 
 <h3 align="left">Projects:</h3>
 
-- **Face Recognition Student Management System**  
+- 
+
+- **Compiler Configuration Serialization (STMicroelectronics)**  
+  *Optimized compiler configurations for better performance and management.*  
+  - Serialized **YAML** Compiler Configurations, improving data structure and usability  
+  - Designed a user-friendly **PyQt5 GUI** for editing and generating YAML configurations  
+  - Streamlined configuration management, resulting in improved operational efficiency  
+
+- **Product Specification Serialization (STMicroelectronics)**  
+  *Enhanced the efficiency of specification serialization and data processing.*  
+  - Converted legacy **C tool** to **Python**, increasing processing efficiency by 60%  
+  - Developed a file-parsing script that optimized tabular product specs into a more accessible format  
+  - Improved data processing and accuracy for product specifications
+    
+**Face Recognition Student Management System**  
   *A Python project built using Tkinter to automate attendance and manage student records.*  
   - Real-time face detection and recognition with **OpenCV**  
   - Automated check-ins and attendance tracking  
-  - Technologies: **Python**, **Tkinter**, **OpenCV**
+  - Developed a user-friendly interface with **Tkinter**  
+  - Technologies: **Python**, **Tkinter**, **OpenCV**, **Face Recognition Module**
 
-- **Real-Time Sound Visualization**  
-  *Contributed as an open-source developer during GSSoC 2024*  
-  - Developed a **PySimpleGUI** interface for easier user interaction  
-  - Focused on feature development and optimization for better performance  
-  - Awarded the **Champion Badge** for contributions
+
 
 ---
 
