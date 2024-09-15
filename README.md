@@ -47,8 +47,6 @@
 
 <h3 align="left">Projects:</h3>
 
-- 
-
 - **Compiler Configuration Serialization (STMicroelectronics)**  
   *Optimized compiler configurations for better performance and management.*  
   - Serialized **YAML** Compiler Configurations, improving data structure and usability  
@@ -68,11 +66,4 @@
   - Developed a user-friendly interface with **Tkinter**  
   - Technologies: **Python**, **Tkinter**, **OpenCV**, **Face Recognition Module**
 
-
-
 ---
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashimasaini2001&show_icons=true&locale=en" alt="ashimasaini2001" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashimasaini2001&show_icons=true&locale=en&layout=compact" alt="ashimasaini2001" /></p>
