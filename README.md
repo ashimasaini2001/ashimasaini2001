@@ -59,7 +59,7 @@
   - Developed a file-parsing script that optimized tabular product specs into a more accessible format  
   - Improved data processing and accuracy for product specifications
     
-**Face Recognition Student Management System**  
+-**Face Recognition Student Management System**  
   *A Python project built using Tkinter to automate attendance and manage student records.*  
   - Real-time face detection and recognition with **OpenCV**  
   - Automated check-ins and attendance tracking  
