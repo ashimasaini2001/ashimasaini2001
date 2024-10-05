@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Python**, **GUI Development (PyQt5, Tkinter)**
-- 🏅 Contributed to **GirlScript Summer of Code 2024** with a Champion Badge
+- 🏅 Contributed to **GirlScript Summer of Code 2024** and earned a Champion Badge
 - 📫 How to reach me: **ashimasaini010@gmail.com**
 
 ---
